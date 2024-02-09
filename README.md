@@ -1,6 +1,6 @@
 # DDF Editor POC
 
-This ois a POC in which i have used a prebuilt Drag And Drop editor - DDF Editor Pro.
+This is a POC in which i have used a prebuilt Drag And Drop editor - DDF Editor Pro.
 
 ## To run this project, use npm install --save
 
@@ -28,4 +28,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
